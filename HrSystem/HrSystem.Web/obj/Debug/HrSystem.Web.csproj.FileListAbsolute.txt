@@ -1,0 +1,7 @@
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\bin\HrSystem.Web.dll.config
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\bin\HrSystem.Web.dll
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\bin\HrSystem.Web.pdb
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\obj\Debug\HrSystem.Web.csprojResolveAssemblyReference.cache
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\obj\Debug\HrSystem.Web.csproj.CoreCompileInputs.cache
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\obj\Debug\HrSystem.Web.dll
+F:\SCOYAA\New folder\HrSystem\HrSystem\HrSystem.Web\obj\Debug\HrSystem.Web.pdb
